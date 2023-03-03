@@ -17,7 +17,7 @@ p {
     font-size: 16px;
 }
 
-/* Adjusting all the .header elemetns to header as I have eliminated the class header */
+/* Adjusting all the .header elements to header as I have eliminated the class header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -112,34 +112,14 @@ header nav ul li {
 .benefits p {
     margin:30px
 }
-.benefit-lead h3 {
+/* removed the indivdual classes and grouped them under the benefits class so that instead of the sections of similar code there is now one */
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+/* removed the indivdual classes and grouped them under the benefits class so that instead of the sections of similar code there is now one */
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
