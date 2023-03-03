@@ -10,6 +10,8 @@ Each section of the webpage describes the services that Horiseon provides to its
 
 ## Credits
 
+Xander Rapstine https://github.com/Xandromus (pulled the source code from)
+
 Christopher Snyder, Cristian Martinez, Jameson Suttles, Sarah Miller, Sean Haboon, Tyrrance Miller
 
 ## License
