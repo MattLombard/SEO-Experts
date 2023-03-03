@@ -104,24 +104,14 @@ header nav ul li {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
     background-color: #2589bd;
 }
-
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
+/* Deleted the .benefit-brand and other 2 similar named classes and completed deleted the corresponding css code and moved the color under the benefits class in css */
+/* Added the .benefits p to the css code so that in the aside section the paragprah was not hugging the folowing header */
+.benefits p {
+    margin:30px
 }
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
