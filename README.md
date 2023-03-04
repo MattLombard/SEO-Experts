@@ -6,6 +6,8 @@ The motivation behind my project was to refactor the source code provided so tha
 
 ![Website Image](Develop/assets/images/_C__Users_ncmat_OneDrive_Desktop_Bootcamp_Modules_module-01_SEO-Experts_Develop_index.html.png)
 
+https://mattlombard.github.io/SEO-Experts/
+
 ## Usage
 
 Each section of the webpage describes the services that Horiseon provides to its prospective clients. In the aside sections it lets them know the benefits of their services. 
