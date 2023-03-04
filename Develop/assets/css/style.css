@@ -33,6 +33,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+
 /* Adjusting the div to nav as I have adjusted the html to have semantic html elements, div is not a semantic html element */
 header nav {
     padding-top: 15px;
@@ -85,10 +86,12 @@ header nav ul li {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 /* Eliminated the three sections of idential code and consildated them into one untilizing the class content*/
-.content img{
+.content img {
     max-height: 200px;
 }
+
 /* Eliminated the three sections of idential code and consildated them into one untilizing the class content*/
 .content h2 {
     margin-bottom: 20px;
@@ -107,6 +110,7 @@ header nav ul li {
     color: #ffffff;
     background-color: #2589bd;
 }
+
 /* Deleted the .benefit-brand and other 2 similar named classes and completed deleted the corresponding css code and moved the color under the benefits class in css */
 
 
@@ -122,9 +126,10 @@ header nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
+
 /* Added the .benefits p to the css code so that in the aside section the paragprah was not hugging the folowing header */
 .benefits p {
-    margin:30px
+    margin: 30px
 }
 
 /* Adjusted the .footer to footer as I have eliminated the footer class as it was not necessary int he html code */
